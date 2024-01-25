@@ -21,7 +21,7 @@ end
 # 2 of Hearts
 # 2 of Spades
 # 3 of Clubs
-# ...
+# ....
 
 # CHALLENGE
 # Deal a poker hand. Shuffle the deck and "deal" (i.e. display) a 5 card hand (i.e. 5 cards from the deck).
